@@ -59,7 +59,7 @@ class _MyLoginState extends State<MyLogin> {
                                 filled: true,
                                 hintText: "Password",
                                 border: OutlineInputBorder(
-                                  borderRadius: BorderRadius.circular(10),
+                                  borderRadius: BorderRadius.circular(20),  
                                 )),
                           ),
                           SizedBox(
